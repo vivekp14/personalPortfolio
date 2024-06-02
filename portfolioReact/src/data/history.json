@@ -1,0 +1,12 @@
+[
+    {
+        "role": "Systems Engineer (Full Stack Developer)",
+        "organisation": "Infosys",
+        "location": "Mysore(Karnataka)",
+        "start_date": "June, 2022",
+        "end_date": "Present",
+        "experiences":["Worked on Automated Employee Attendance Tracker Application using Django Framework built from scratch.",
+                       "ODC Management Tool Application using Spring Boot, I developed the `Manage Documents` module for the ODC Management Tool a full-featured application built with Spring Boot and JSP This module offers a consolidated platform for document management that effortlessly integrates with the existing backend and frontend."],
+        "imageSrc":"history/infosys.png"
+    }
+]
